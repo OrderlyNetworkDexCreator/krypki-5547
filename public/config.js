@@ -30,7 +30,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@krypkix",
   "VITE_SEO_THEME_COLOR": "#050a30",
-  "VITE_SEO_KEYWORDS": "crypto, btc, bitcoin, eth, ether, ethereum, sol, solana, perp, perpetuals, leverage, dex, defi, 100x, meme, memecoin",
+  "VITE_SEO_KEYWORDS": "crypto, btc, bitcoin, eth, ether, ethereum, sol, solana, perp, perpetuals, leverage, dex, defi, 100x, meme, memecoin, hype, hyper",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
