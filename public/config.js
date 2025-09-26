@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/krypkix",
   "VITE_SEO_SITE_NAME": "Krypki",
   "VITE_SEO_SITE_DESCRIPTION": "Decentralized Perpetual Exchange",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/krypki-5547/",
+  "VITE_SEO_SITE_URL": "https://dex.krypki.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@krypkix",

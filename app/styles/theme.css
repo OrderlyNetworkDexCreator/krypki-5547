@@ -32,17 +32,17 @@
   --oui-color-fill: 5 10 48; /* Oxford blue */
   --oui-color-fill-active: 15 25 68; /* Lighter oxford blue */
 
-  /* Base color scale using oxford blue variations */
-  --oui-color-base-1: 120 140 180; /* Lightest - mix of blues */
-  --oui-color-base-2: 95 115 155;
-  --oui-color-base-3: 70 90 130;
-  --oui-color-base-4: 50 70 110;
-  --oui-color-base-5: 35 55 95;
-  --oui-color-base-6: 25 40 80;
-  --oui-color-base-7: 15 25 68;
-  --oui-color-base-8: 10 18 58;
-  --oui-color-base-9: 7 13 48;
-  --oui-color-base-10: 5 10 48; /* Oxford blue */
+  /* Base color scale - shades of black */
+  --oui-color-base-1: 200 200 200; /* Light grey */
+  --oui-color-base-2: 160 160 160; /* Medium-light grey */
+  --oui-color-base-3: 120 120 120; /* Medium grey */
+  --oui-color-base-4: 90 90 90; /* Medium-dark grey */
+  --oui-color-base-5: 70 70 70; /* Dark grey */
+  --oui-color-base-6: 50 50 50; /* Darker grey */
+  --oui-color-base-7: 35 35 35; /* Very dark grey */
+  --oui-color-base-8: 25 25 25; /* Almost black */
+  --oui-color-base-9: 15 15 15; /* Near black */
+  --oui-color-base-10: 5 5 5; /* Pure black */
 
   --oui-color-base-foreground: 212 241 244; /* Light cyan for text */
   --oui-color-line: 117 230 218; /* Tiffany blue for lines */
